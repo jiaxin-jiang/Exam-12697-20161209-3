@@ -1,1 +1,1 @@
-直接运行目录：Exam-12697-20161209-3\src\main\java\Exam201612093 下的Date.java文件即可
+mvn exec:java -Dexec.mainClass="Exam_12697_20161209_3.Date"
